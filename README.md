@@ -11,4 +11,4 @@ See the syllabus for slides, deadlines, and the lecture schedule. Readings refer
 Lecture reference materials
 
 ## Author
-MentsalIlnris热寂. These project is the assignment in AI course in CUG.
+MentsalIlnris热寂. These projects is the assignment in AI course in CUG.
